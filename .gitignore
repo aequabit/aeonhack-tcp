@@ -1,0 +1,7 @@
+.vs/*
+aeonhack-tcp/bin/*
+aeonhack-tcp/obj/*
+Client-Test/bin/*
+Client-Test/obj/*
+Client-Server/bin/*
+Client-Server/obj/*

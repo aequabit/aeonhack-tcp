@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aeonhack-tcp", "aeonhack-tcp\aeonhack-tcp.csproj", "{42FF7862-64B6-4BA3-848C-9C879DDE097A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server-Test", "Server-Test\Server-Test.csproj", "{40458F02-CA55-4A61-9208-65C172B066B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client-Test", "Client-Test\Client-Test.csproj", "{78162B87-2E4D-4417-9594-59E3E4D166FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42FF7862-64B6-4BA3-848C-9C879DDE097A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FF7862-64B6-4BA3-848C-9C879DDE097A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FF7862-64B6-4BA3-848C-9C879DDE097A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FF7862-64B6-4BA3-848C-9C879DDE097A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40458F02-CA55-4A61-9208-65C172B066B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40458F02-CA55-4A61-9208-65C172B066B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40458F02-CA55-4A61-9208-65C172B066B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40458F02-CA55-4A61-9208-65C172B066B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78162B87-2E4D-4417-9594-59E3E4D166FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78162B87-2E4D-4417-9594-59E3E4D166FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78162B87-2E4D-4417-9594-59E3E4D166FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78162B87-2E4D-4417-9594-59E3E4D166FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
